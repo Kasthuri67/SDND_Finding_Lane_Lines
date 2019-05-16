@@ -14,7 +14,7 @@ The following techniques are used:
 
 **Description:**
 
-***1.	Grayscale Transform: ***
+***1.	Grayscale Transform:***
 
 The input images are converted into gray scale images, in order to detect edges in the image. This is because the Canny edge detection measures the gradients.
  
